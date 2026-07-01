@@ -104,3 +104,29 @@ if (hasRecovery) {
 | `watermarkColor` | `string` | `'rgba(255, 255, 255, 0.4)'` | Watermark text fill style. |
 | `watermarkFontSize` | `number` | `20` | Font size in pixels. |
 | `videoQuality` | `'low' \| 'medium' \| 'high'` | `'medium'` | Recording resolution & bitrate settings (`low` = 360p/800Kbps, `medium` = 720p/2.5Mbps, `high` = 1080p/6Mbps). |
+
+## Contributing & Pull Requests
+
+We welcome community contributions! To suggest improvements or submit bug fixes:
+
+1. **Fork the Repository**: Create a personal copy of the project on GitHub.
+2. **Clone Locally**: 
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/proctorec-sdk.git
+   cd proctorec-sdk
+   ```
+3. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
+4. **Create a Feature Branch**:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+5. **Make Changes & Build**: Edit files in the `src/` directory and compile to verify types:
+   ```bash
+   npm run build
+   ```
+6. **Commit & Push**: Commit your changes and push the branch to your fork.
+7. **Open a Pull Request**: Submit a Pull Request from your branch to the main repository. We will review it as soon as possible!
+

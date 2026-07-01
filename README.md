@@ -1,5 +1,8 @@
 # proctorec-sdk
 
+[![npm version](https://img.shields.io/npm/v/@bytesquadlabs/proctorec-sdk.svg)](https://www.npmjs.com/package/@bytesquadlabs/proctorec-sdk)
+[![license](https://img.shields.io/npm/l/@bytesquadlabs/proctorec-sdk.svg)](https://github.com/bytesquadlabs/proctorec-sdk/blob/main/LICENSE)
+
 A lightweight, zero-dependency frontend JavaScript SDK to record combined screen share and webcam streams on the client side. Ideal for online interviews, test-taking platforms, remote coding assessments, and browser-based remote proctoring applications.
 
 ## Key Search Terms & Use Cases

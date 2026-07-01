@@ -13,5 +13,16 @@
   },
   "devDependencies": {
     "typescript": "^5.0.0"
-  }
+  },
+  "keywords": [
+    "proctoring",
+    "assessment",
+    "screen-recorder",
+    "webcam-overlay",
+    "canvas-record",
+    "video-mixing",
+    "client-side-recording",
+    "mediarecorder-api",
+    "online-exam"
+  ]
 }

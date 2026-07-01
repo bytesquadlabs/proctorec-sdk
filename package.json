@@ -1,0 +1,17 @@
+{
+  "name": "proctorec-sdk",
+  "version": "1.0.0",
+  "description": "Universal frontend recorder SDK for combined screen and webcam recording.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "Apache-2.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "prepare": "npm run build"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

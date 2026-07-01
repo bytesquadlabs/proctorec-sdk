@@ -1,6 +1,6 @@
 {
   "name": "@bytesquadlabs/proctorec-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Universal frontend recorder SDK for combined screen and webcam recording.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

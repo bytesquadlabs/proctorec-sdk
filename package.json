@@ -6,6 +6,14 @@
   "types": "dist/index.d.ts",
   "license": "Apache-2.0",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bytesquadlabs/proctorec-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bytesquadlabs/proctorec-sdk/issues"
+  },
+  "homepage": "https://github.com/bytesquadlabs/proctorec-sdk#readme",
   "scripts": {
     "build": "tsc",
     "prepublishOnly": "npm run build",
